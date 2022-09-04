@@ -1,0 +1,4 @@
+../Inc/adc.c:14:6:adc_init	4	static
+../Inc/adc.c:33:6:activate_adc	4	static
+../Inc/adc.c:42:6:start_conversion	4	static
+../Inc/adc.c:47:10:adc_read	4	static
